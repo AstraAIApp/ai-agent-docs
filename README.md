@@ -1,3 +1,3 @@
 # Docs
 
-Documentation for Sophie AI App.
+Documentation for Lumen AI App.
