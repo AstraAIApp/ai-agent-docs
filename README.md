@@ -1,3 +1,3 @@
 # Docs
 
-Documentation for Lumen AI App.
+Documentation for Luna AI App.
