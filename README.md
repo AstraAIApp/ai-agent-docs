@@ -1,3 +1,3 @@
 # Docs
 
-Documentation for Luna AI App.
+Documentation for Cyntch AI App.
