@@ -1,3 +1,3 @@
 # Docs
 
-Documentation for Cyntch AI App.
+Documentation for Simplify AI App.
