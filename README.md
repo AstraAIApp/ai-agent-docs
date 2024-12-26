@@ -1,4 +1,4 @@
-# Wait AI Agent
+# Trendify AI Agent
 
 A powerful and versatile AI agent designed to revolutionize how we interact with technology and the world around us.
 
