@@ -1,4 +1,4 @@
-# Sophie AI Agent
+# AI Agent Documentation v1.0.2
 
 A powerful and versatile AI agent designed to revolutionize how we interact with technology and the world around us.
 
